@@ -1,0 +1,37 @@
+[
+    {
+        "fecha": "22/06/2022",
+        "nombre": "Maria",
+        "apellido": "Lopez",
+        "dni": "123456789",
+        "id": 5
+    },
+    {
+        "fecha": "23/06/2022",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "dni": "12345678",
+        "id": 7
+    },
+    {
+        "fecha": "23/06/2022",
+        "nombre": "Pedro",
+        "apellido": "Gomez",
+        "dni": "M2311321",
+        "id": 8
+    },
+    {
+        "fecha": "23/06/2022",
+        "nombre": "gabriela",
+        "apellido": "benitez",
+        "dni": "23456789",
+        "id": 9
+    },
+    {
+        "fecha": "23/06/2022",
+        "nombre": "Jonas",
+        "apellido": "cuccio",
+        "dni": "40234544",
+        "id": 10
+    }
+]
